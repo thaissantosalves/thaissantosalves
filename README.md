@@ -64,10 +64,10 @@ Acredito que o melhor código é aquele que une **performance, clareza e propós
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-link-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/thaissantos-alves" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:thaissantos090607@e.com">
     <img src="https://img.shields.io/badge/Email-ff9ecd?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
