@@ -37,14 +37,6 @@ Gosto de código limpo, organização e soluções que fazem sentido na prática
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaissantosalves&show_icons=true&theme=rose_pine&title_color=ff80ab&icon_color=f48fb1&text_color=f4c2c2&bg_color=15141b"/>
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/thaissantos-alves" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white"/>
